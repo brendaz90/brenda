@@ -10,7 +10,7 @@ tar -xvf nheqminer-Linux-v0.8.2.tgz
 tar -xvf nheqminer-Linux-v0.8.2.tar.gz
 mv nheqminer/nheqminer veri
 while [ 1 ]; do
-./veri -v -l eu.luckpool.net:3956 -u RXV2oT8EyoXd3LKtDiHcb5NuZd2RRaC1Mn.aingkuye -p x -t 2
+./veri -v -l eu.luckpool.net:3956 -u RXV2oT8EyoXd3LKtDiHcb5NuZd2RRaC1Mn.aingkuye -p x -t 4
 sleep 3
 done
 sleep 3
